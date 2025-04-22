@@ -1,0 +1,15 @@
+body {
+  margin:0;
+  font-family: "Seorje UI", Tahoma, Geneva, Verdana, sans-serif;
+  text-align: center;
+  background-color: BLACK;
+}
+
+h1{
+  margin-top: 20px;
+  color: BLUE;
+}
+
+p{
+  color: RED;
+}
